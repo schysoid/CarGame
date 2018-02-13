@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarGame.CSharp", "CarGame.CSharp.csproj", "{B110A048-117B-8E52-CEF4-79F62B44BD70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarGame.CSharp.Editor", "CarGame.CSharp.Editor.csproj", "{F142855B-7EDE-C091-C825-DDD65C07DE27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B110A048-117B-8E52-CEF4-79F62B44BD70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B110A048-117B-8E52-CEF4-79F62B44BD70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B110A048-117B-8E52-CEF4-79F62B44BD70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B110A048-117B-8E52-CEF4-79F62B44BD70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F142855B-7EDE-C091-C825-DDD65C07DE27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F142855B-7EDE-C091-C825-DDD65C07DE27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F142855B-7EDE-C091-C825-DDD65C07DE27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F142855B-7EDE-C091-C825-DDD65C07DE27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
